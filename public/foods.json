@@ -1,0 +1,87 @@
+[
+    {
+        "recipe_id": 1,
+        "Recipe_img": "https://i.ibb.co/prKnJfp/food-24.jpg",
+        "Recipe_name": "Spaghetti Carbonara",
+        "short_description": "Classic Italian pasta dish with creamy sauce",
+        "Ingredients": [
+            "spaghetti",
+            "eggs",
+            "pancetta",
+            "Parmesan cheese",
+            "black pepper"
+        ],
+        "preparing_time": "30 minutes",
+        "calories": 450
+    },
+    {
+        "recipe_id": 2,
+        "Recipe_img": "https://i.ibb.co/SRqdqpY/food-30.jpg",
+        "Recipe_name": "Chicken Stir-Fry",
+        "short_description": "Quick and healthy stir-fried chicken with vegetables",
+        "Ingredients": [
+            "chicken breast",
+            "bell peppers",
+            "onion",
+            "broccoli",
+            "soy sauce"
+        ],
+        "preparing_time": "25 minutes",
+        "calories": 320
+    },
+    {
+        "recipe_id": 3,
+        "Recipe_img": "https://i.ibb.co/n6py71p/food-25.jpg",
+        "Recipe_name": "Vegetable Curry",
+        "short_description": "Flavorful vegetarian curry with a variety of vegetables",
+        "Ingredients": [
+            "potatoes",
+            "carrots",
+            "cauliflower",
+            "peas",
+            "coconut milk",
+            "curry paste"
+        ],
+        "preparing_time": "40 minutes",
+        "calories": 280
+    },
+    {
+        "recipe_id": 4,
+        "Recipe_img": "https://i.ibb.co/NjnDgK7/food-37.jpg",
+        "Recipe_name": "Grilled Salmon",
+        "short_description": "Healthy grilled salmon fillets with lemon and herbs",
+        "Ingredients": [
+            "salmon fillets",
+            "lemon",
+            "olive oil",
+            "garlic",
+            "dill"
+        ],
+        "preparing_time": "20 minutes",
+        "calories": 380
+    },
+    {
+        "recipe_id": 5,
+        "Recipe_img": "https://i.ibb.co/hyMs1Vg/food-5.jpg",
+        "Recipe_name": "Caprese Salad",
+        "short_description": "Classic Italian salad with fresh tomatoes, mozzarella, and basil",
+        "Ingredients": [
+            "tomatoes",
+            "mozzarella cheese",
+            "fresh basil",
+            "olive oil",
+            "balsamic vinegar"
+        ],
+        "preparing_time": "15 minutes",
+        "calories": 200
+    },
+    {
+        "recipe_id": 6,
+        "Recipe_img": "https://i.ibb.co/yFzVGLc/food-9.jpg",
+        "Recipe_name": "Mushroom Risotto",
+        "short_description": "Creamy and flavorful Italian rice dish with mushrooms",
+        "Ingredients": ["Arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "Parmesan cheese"],
+        "preparing_time": "45 minutes",
+        "calories": 380
+      }
+]
